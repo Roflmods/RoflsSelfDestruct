@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Rofl's Self Destruct
+## Notes: Adds "Ignore for this session" to enchant safety warnings. Suppresses them until reload or logout.
+## Author: Forever
+## Version: 1.0.0
+
+RoflsSelfDestruct.lua
