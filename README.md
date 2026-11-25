@@ -1,6 +1,6 @@
 # Rofl's Self Destruct
 
-1) Extract into your "World of Warcraft/_forever_/Interface/Addons/RoflsSelfDestruct" folder
+1) Extract into your "World of Warcraft/\_forever\_/Interface/Addons/RoflsSelfDestruct" folder
 2) Enjoy!
 
 Adds an **Ignore for this session** button to enchant / bind safety popups. Click it once and matching warnings auto-accept until you `/reload`, log out, or run `/rsd reset`.
